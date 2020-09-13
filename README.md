@@ -7,18 +7,18 @@
 
 ## Schedule 
 
-| Sl# | Time | Speaker Name | Session Title | Presentation / Links |
-|:---:|:-----------|:-----------|:---------|:------------|
-| 1  | 09:45 AM - 10:00 AM IST | Swaminathan Vetri | Welcome / Event Briefing | _See below_  |
-| 2  | 10:00 AM - 10:45 AM IST | James Montemagno | What’s New & Next for Xamarin Developers | _See below_  |
-| 3  | 10:45 AM - 11:00 AM IST |  | Break/Networking | _See below_  |
-| 4  | 11:00 AM - 11:45 AM IST | S Ravi Kumar | Full Stack Web Development with .NET Blazor | _See below_  |
-| 5  | 11:45 AM - 12.30 PM IST | Renuka Jataprolu | Building Real Time Web Apps using SignalR |  _See below_ |
-| 6  | 12:30 PM - 01:15 PM IST |  | Lunch Break | _See below_ |
-| 7  | 01:15 PM - 02:00 PM IST | Nish Anil | Microservices in .NET | _See below_  |
-| 8  | 02:00 PM - 02:45 PM IST | Amresh Krishnamurthy | Let us DAPR! | _See below_  |
-| 9  | 02:45 PM - 03:30 PM IST |  | Ask Me Anything with Experts/MVPs |  _See below_ |
-| 10 | 03:30 PM - 03:45 PM IST |  | Wrap up | _See below_  |
+| Sl# | Time (in IST) | Speaker Name | Session Title |
+|:---:|:-----------|:-----------|:---------|
+| 1  | 09:45 AM - 10:00 AM | Swaminathan Vetri | Welcome / Event Briefing |
+| 2  | 10:00 AM - 10:45 AM | James Montemagno | What’s New & Next for Xamarin Developers |
+| 3  | 10:45 AM - 11:00 AM |  | Break/Networking |
+| 4  | 11:00 AM - 11:45 AM | S Ravi Kumar | Full Stack Web Development with .NET Blazor |
+| 5  | 11:45 AM - 12.30 PM | Renuka Jataprolu | Building Real Time Web Apps using SignalR |
+| 6  | 12:30 PM - 01:15 PM |  | Lunch Break |
+| 7  | 01:15 PM - 02:00 PM | Nish Anil | Microservices in .NET |
+| 8  | 02:00 PM - 02:45 PM | Amresh Krishnamurthy | Let us DAPR! |
+| 9  | 02:45 PM - 03:30 PM |  | Ask Me Anything with Experts/MVPs |
+| 10 | 03:30 PM - 03:45 PM |  | Wrap up |
 
 ## Event Website 
 
