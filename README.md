@@ -25,7 +25,10 @@
 https://bdotnet.in/dotnet-dev-summit-2020/
 
 ## Event Recording 
-Check on [YouTube](https://www.youtube.com/watch?v=V0CG6hGXpkE "YouTube Live Event Recording"). 
+Check on [YouTube](https://www.youtube.com/watch?v=V0CG6hGXpkE "YouTube Live Event Recording").
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/V0CG6hGXpkE/0.jpg)](http://www.youtube.com/watch?v=V0CG6hGXpkE)
+
 
 ## Social Media 
 Look for tweets with Hashtag [#dotnetdevsummit20](https://twitter.com/hashtag/dotnetdevsummit20 "Social Media Posts"). 
