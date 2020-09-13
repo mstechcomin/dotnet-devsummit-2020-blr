@@ -41,6 +41,6 @@ Look for tweets with Hashtag [#dotnetdevsummit20](https://twitter.com/hashtag/do
 
 * XHackers User Group - [Facebook](https://www.facebook.com/groups/xhackersco/  "Facebook") |  [Meetup](https://www.meetup.com/XHackers/  "Meetup") |  [YouTube](https://www.youtube.com/channel/UChTR7oexLQ3KTA4ZI1Xj1Qw/  "YouTube") |  [Twitter](https://twitter.com/XHackersco  "Twitter") | 
 
-* XMonkey360 User Group - [Facebook](https://www.facebook.com/xmonkeys360  "Facebook") |  [Meetup](https://www.meetup.com/XMonkeys360/  "Meetup") |  [YouTube](https://www.youtube.com/c/xmonkeys360  "YouTube") |  [Twitter](https://twitter.com/xmonkeys360  "Twitter") | 
+* XMonkeys360 User Group - [Facebook](https://www.facebook.com/xmonkeys360  "Facebook") |  [Meetup](https://www.meetup.com/XMonkeys360/  "Meetup") |  [YouTube](https://www.youtube.com/c/xmonkeys360  "YouTube") |  [Twitter](https://twitter.com/xmonkeys360  "Twitter") | 
 
 
